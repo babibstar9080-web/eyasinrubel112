@@ -1,0 +1,6 @@
+{
+  "name": "Company Stock Manager",
+  "description": "Professional inventory, stock allocation, salesman tracking, and sales management system with Saudi Riyal (SAR) currency support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
